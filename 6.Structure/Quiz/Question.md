@@ -9,3 +9,4 @@
 ### 답안 작성
 * 주어진 linkedList.c 파일만을 수정하여 답안으로 제출한다.
 * main.c 출력 예시
+![제목 없음](https://user-images.githubusercontent.com/37584805/202325391-af4bcabb-5bd9-4f79-8cd9-6239dae4fa46.png)
