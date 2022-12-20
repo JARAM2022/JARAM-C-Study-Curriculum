@@ -22,9 +22,9 @@ int main() {
 ### 답안 작성
 * 주어진 makeACalculatorIf.c 파일만을 수정하여 답안으로 제출한다.
 * makeACalculatorIf.c 출력 예시
-* ![1](https://user-images.githubusercontent.com/56226889/208773359-554a82b5-4f9c-4f01-9ea9-e829cf1d9c2a.png)
-* ![2](https://user-images.githubusercontent.com/56226889/208773671-5a84d958-a95c-4c2b-87a5-bb002b109c48.png)
-* ![3](https://user-images.githubusercontent.com/56226889/208773687-43703963-db15-428c-bcf7-2696ec88d982.png)
-* ![4](https://user-images.githubusercontent.com/56226889/208773689-fd9be88f-ed8b-48a7-9618-9eec6e2dbad1.png)
-* ![5](https://user-images.githubusercontent.com/56226889/208773692-8faa2151-a893-4463-9b94-62b6b1be69f8.png)
-* ![6](https://user-images.githubusercontent.com/56226889/208773698-347f7fc4-a6d5-48c4-a0a8-0700f78bff11.png)
+    * ![1](https://user-images.githubusercontent.com/56226889/208773359-554a82b5-4f9c-4f01-9ea9-e829cf1d9c2a.png)
+    * ![2](https://user-images.githubusercontent.com/56226889/208773671-5a84d958-a95c-4c2b-87a5-bb002b109c48.png)
+    * ![3](https://user-images.githubusercontent.com/56226889/208773687-43703963-db15-428c-bcf7-2696ec88d982.png)
+    * ![4](https://user-images.githubusercontent.com/56226889/208773689-fd9be88f-ed8b-48a7-9618-9eec6e2dbad1.png)
+    * ![5](https://user-images.githubusercontent.com/56226889/208773692-8faa2151-a893-4463-9b94-62b6b1be69f8.png)
+    * ![6](https://user-images.githubusercontent.com/56226889/208773698-347f7fc4-a6d5-48c4-a0a8-0700f78bff11.png)
